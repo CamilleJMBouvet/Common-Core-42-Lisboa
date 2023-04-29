@@ -29,7 +29,7 @@ ___________________
 
 • **Libft**<br>
 Grade: 125/100 ✔️<br>
-➤ [My Libft repository](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft)
+➤ [My Libft project](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft)
 
 
 • **ft_printf**<br>
