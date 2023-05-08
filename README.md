@@ -50,7 +50,7 @@ Grade: 100/100 ✔️<br>
 Description:
 >Create a function that allows to read content from a file line by line, using static variables.
 
-Grade: -/100 ✔️<br>
+Grade: -/100 <br>
 ➤ Work in progress :)
 
 ___________________
