@@ -42,7 +42,7 @@ Description:
 >Recode <i>printf</i> by implementing variadic functions. This function will be reused in future projects.
 
 Grade: 100/100 ✔️<br>
-➤ In the making :)
+➤ [My ft_printf project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf)
 
 ___________________
 ## Exam Results
