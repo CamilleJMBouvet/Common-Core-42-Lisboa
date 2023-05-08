@@ -41,7 +41,7 @@ Grade: 125/100 ✔️<br>
 Description:
 >Recode <i>printf</i> by implementing variadic functions. This function will be reused in future projects.
 
-Grade:-/100<br>
+Grade: 100/100 ✔️<br>
 ➤ In the making :)
 
 ___________________
