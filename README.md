@@ -32,7 +32,7 @@ Description:
 >Recode a total of 43 functions<br>
 Some stem from the <i>C standard library</i>, and others are various utility functions that will get used later in the curriculum<br>
 
-Grade: 125/100 ✔️<br>
+Grade: **125**/100 ✔️<br>
 ➤ [My Libft project](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft)
 
 <br>
@@ -41,7 +41,7 @@ Grade: 125/100 ✔️<br>
 Description:
 >Recode <i>printf</i> by implementing variadic functions. This function will be reused in future projects.
 
-Grade: 100/100 ✔️<br>
+Grade: **100**/100 ✔️<br>
 ➤ [My ft_printf project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf)
 
 <br>
