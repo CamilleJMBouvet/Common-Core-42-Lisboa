@@ -44,6 +44,15 @@ Description:
 Grade: 100/100 ✔️<br>
 ➤ [My ft_printf project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf)
 
+<br>
+
+• **get_next_line**<br>
+Description:
+>Create a function that allows to read content from a file line by line, using static variables.
+
+Grade: -/100 ✔️<br>
+➤ Work in progress :)
+
 ___________________
 ## Exam Results
 
