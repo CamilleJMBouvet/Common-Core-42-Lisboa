@@ -53,6 +53,13 @@ Description:
 Grade: -/100 <br>
 ➤ [My get_next_line project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line)
 
+• **Born2beroot**<br>
+Description:
+>Create a machine in <i>VirtualBox</i> under specific instructions, set up our own operating system while implementing strict rules.
+
+Grade: -/100 <br>
+➤ Work in progress :)
+
 ___________________
 ## Exam Results
 
