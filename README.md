@@ -51,7 +51,7 @@ Description:
 >Create a function that allows to read content from a file line by line, using static variables.
 
 Grade: -/100 <br>
-➤ Work in progress :)
+➤ [My get_next_line project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line)
 
 ___________________
 ## Exam Results
