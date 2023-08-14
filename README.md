@@ -50,18 +50,23 @@ Grade: **100**/100 ✔️<br>
 Description:
 >Create a function that allows to read content from a file line by line, using static variables.
 
-Grade: -/100 <br>
+Grade: **125**/100 ✔️<br>
 ➤ [My get_next_line project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line)
 
 • **Born2beroot**<br>
 Description:
 >Create a machine in <i>VirtualBox</i> under specific instructions, set up our own operating system while implementing strict rules.
 
-Grade: -/100 <br>
-➤ Work in progress :)
+Grade: **100**/100 ✔️<br>
 
+• **Push_swap**<br>
+Description:
+>Create an algorithm that sorts a stack of integers in the smallest possible number of operations.
+
+Grade: work in progress :)
 ___________________
 ## Exam Results
 
-N/A
+• **Exam Rank 2**<br>
+Grade: **100**/100 ✔️<br>
 ___________________
