@@ -67,7 +67,19 @@ Grade: **100**/100 ✔️<br>
 Description:
 >Create an algorithm that sorts a stack of integers in the smallest possible number of operations.
 
+Grade: **100**/100 ✔️<br>
+➤ [My push_swap project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap)
+
+<br>
+
+• **fract-ol**<br>
+Description:
+>Create a fractal exploration programme in a graphical environment
+
 Grade: work in progress :)
+
+<br>
+
 ___________________
 ## Exam Results
 
