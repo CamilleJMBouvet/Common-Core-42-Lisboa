@@ -77,7 +77,7 @@ Description:
 >Create a fractal exploration programme in a graphical environment<br>
 
 Grade: **115**/100 ✔️<br>
-➤ [My push_swap project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol)
+➤ [My fract-ol project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol)
 
 <br>
 
