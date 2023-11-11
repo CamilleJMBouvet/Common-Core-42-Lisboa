@@ -48,5 +48,9 @@ ___________________
 Grade: **100**/100 ✔️<br>
 <br>
 • **Exam Rank 3**<br>
-Grade: **100**/100 ✔️<br>
+Grade: **100**/100 ✔️<br><br>
+
+___________________
+<i>Project icons: MIT License | Copyright (c) 2023 @Cadets for Cadets</i>
+
 ___________________
