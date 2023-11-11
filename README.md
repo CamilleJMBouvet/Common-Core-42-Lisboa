@@ -36,8 +36,8 @@ ___________________
 | <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png"></img> | • Create a virtual machine in <i>VirtualBox</i> under a specific set of instructions, set up the OS<br>while implementing strict security rules | **100**/100 ✔️<br> | N/A  |
 | <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img> | • Create an algorithm that sorts a stack of integers in the smallest possible number of operations<br>while complying with a set of constraints regarding movements | **100**/100 ✔️<br> | ➤ My [push_swap](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap) |
 | <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img> | • Create a fractal exploration programme in a graphical environment | **115**/100 ✔️<br> | ➤ My [fract-ol](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol) |
-| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img> | Create a programme that simulates the behaviour of the shell pipe | **115**/100 | ➤ My [pipex](NULL) |
-| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minishelle.png"></img> | | Work in progress :) | |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img> | Create a programme that simulates the behaviour of the shell pipe | **115**/100 | ➤ My [pipex](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minishelle.png"></img> | | Work in progress :) | ➤ |
 
 <br>
 
