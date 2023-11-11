@@ -1,6 +1,7 @@
-# My Common Core @ 42 Lisboa
+<img src="https://i.postimg.cc/mDnRc5mJ/Fractol-theme-CC.png"></img><br><br>
 
-Welcome to my **Common Core** curriculum, where you'll be able to see the projects I'm completing along my programming journey
+<p align="center">Welcome !<br>
+Here are all the projects that I'm completing along my programming journey at 42</p>
 
 ___________________
 
@@ -27,56 +28,16 @@ Source: https://42.fr/en/the-program/software-engineer-degree/
 ___________________
 ## Projects
 
-• **Libft**<br>
-Description:
->Recode a total of 43 functions<br>
-Some stem from the <i>C standard library</i>, and others are various utility functions that will get used later in the curriculum<br>
-
-Grade: **125**/100 ✔️<br>
-➤ [My Libft project](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft)
-
-<br>
-
-• **ft_printf**<br>
-Description:
->Recode <i>printf</i> by implementing variadic functions. This function will be reused in future projects.
-
-Grade: **100**/100 ✔️<br>
-➤ [My ft_printf project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf)
-
-<br>
-
-• **get_next_line**<br>
-Description:
->Create a function that allows to read content from a file line by line, using static variables.
-
-Grade: **125**/100 ✔️<br>
-➤ [My get_next_line project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line)
-
-<br>
-
-• **Born2beroot**<br>
-Description:
->Create a machine in <i>VirtualBox</i> under specific instructions, set up our own operating system while implementing strict rules.
-
-Grade: **100**/100 ✔️<br>
-
-<br>
-
-• **Push_swap**<br>
-Description:
->Create an algorithm that sorts a stack of integers in the smallest possible number of operations.
-
-Grade: **100**/100 ✔️<br>
-➤ [My push_swap project](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap)
-
-<br>
-
-• **fract-ol**<br>
-Description:
->Create a fractal exploration programme in a graphical environment
-
-Grade: work in progress :)
+| Project | Description | Grade | Repo |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img> | • Recode a total of 43 functions<br>• Some stem from the <i>C standard library</i>, and others are various utility functions that will get used later in the curriculum</p> | **125**/100 ✔️<br> | ➤ My [Libft](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img> | • Recode <i>printf</i> by implementing variadic functions | Grade: **100**/100 ✔️<br> | ➤ My [ft_printf](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png"></img> | • Create a function that allows to read content from a file line by line, using static variables | **125**/100 ✔️<br> | ➤ My [get_next_line](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png"></img> | • Create a virtual machine in <i>VirtualBox</i> under a specific set of instructions, set up the OS<br>while implementing strict security rules | **100**/100 ✔️<br> | N/A  |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img> | • Create an algorithm that sorts a stack of integers in the smallest possible number of operations<br>while complying with a set of constraints regarding movements | **100**/100 ✔️<br> | ➤ My [push_swap](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img> | • Create a fractal exploration programme in a graphical environment | **115**/100 ✔️<br> | ➤ My [fract-ol](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img> | Create a programme that simulates the behaviour of the shell pipe | **115**/100 | ➤ My [pipex](NULL) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minishelle.png"></img> | | Work in progress :) | |
 
 <br>
 
@@ -84,5 +45,8 @@ ___________________
 ## Exam Results
 
 • **Exam Rank 2**<br>
+Grade: **100**/100 ✔️<br>
+<br>
+• **Exam Rank 3**<br>
 Grade: **100**/100 ✔️<br>
 ___________________
