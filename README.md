@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/mDnRc5mJ/Fractol-theme-CC.png"></img><br><br>
+<img src="https://i.postimg.cc/3JL1G0Jd/Common-core-1.png"></img><br><br>
 
 <p align="center">Welcome !<br>
 Here are all the projects that I'm completing along my programming journey at 42</p>
@@ -31,14 +31,18 @@ ___________________
 
 | Project | Description | Grade | Repo |
 | ------------- | ------------- | ------------- | ------------- |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Libft"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img> | • Recode a total of 43 functions<br>• Some stem from the <i>C standard library</i>, and others are various utility functions that will get used later in the curriculum</p> | **125**/100 ✔️<br> | ➤ My [Libft](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft) |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img> | • Recode <i>printf</i> by implementing variadic functions | Grade: **100**/100 ✔️<br> | ➤ My [ft_printf](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf) |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png"></img> | • Create a function that allows to read content from a file line by line, using static variables | **125**/100 ✔️<br> | ➤ My [get_next_line](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line) |
-| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png"></img> | • Create a virtual machine in <i>VirtualBox</i> under a specific set of instructions, set up the OS<br>while implementing strict security rules | **100**/100 ✔️<br> | N/A  |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img> | • Create an algorithm that sorts a stack of integers in the smallest possible number of operations<br>while complying with a set of constraints regarding movements | **100**/100 ✔️<br> | ➤ My [push_swap](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap) |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img> | • Create a fractal exploration programme in a graphical environment | **115**/100 ✔️<br> | ➤ My [fract-ol](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol) |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img> | • Create a programme that simulates the behaviour of the shell pipe | **115**/100 | ➤ My [pipex](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex) |
-| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minishelle.png"></img> | • Create a simplified version of a UNIX shell and acquire knowledge about system-calls, processes, file descriptors and command-line interfaces  | <i>Work in progress</i> :) | ➤ |
+| <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png"></img> | • Use threads and mutexes to re-create the <a href= "https://en.wikipedia.org/wiki/Dining_philosophers_problem">Dining Philosophers Problem</a> without causing deadlocks | <i>Work in progress</i> :) | ➤ ⚙️ 💻 🍝 💻  ⚙️ |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/minishelle.png"></img> | • Create a simplified version of a UNIX shell and acquire knowledge about system-calls, processes, file descriptors and command-line interfaces  | <i>Work in progress</i> :) | ➤ ⚙️ 💻 🐚 💻  ⚙️ |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/pipexm.png"></img> | • Create a programme that simulates the behaviour of the shell pipe | **115**/100 ✅<br> | ➤ My [pipex](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/pipex) |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/fract-olm.png"></img> | • Create a fractal exploration programme in a graphical environment | **115**/100 ✅<br> | ➤ My [fract-ol](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/fract-ol) |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img> | • Create an algorithm that sorts a stack of integers in the smallest possible number of operations<br>while complying with a set of constraints regarding movements | **100**/100 ✅<br> | ➤ My [push_swap](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/push_swap) |
+| <img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/born2beroote.png"></img> | • Create a virtual machine in <i>VirtualBox</i> under a specific set of instructions, set up the OS<br>while implementing strict security rules | **100**/100 ✅<br> | N/A  |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/get_next_linem.png"></img> | • Create a function that allows to read content from a file line by line, using static variables | **125**/100 ✅<br> | ➤ My [get_next_line](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/get_next_line) |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img> | • Recode <i>printf</i> by implementing variadic functions | **100**/100 ✅<br> | ➤ My [ft_printf](https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_printf) |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Libft"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img> | • Recode a total of 43 functions<br>• Some stem from the <i>C standard library</i>, and others are various utility functions that will get used later in the curriculum</p> | **125**/100 ✅<br> | ➤ My [Libft](https://github.com/CamilleJMBouvet/CommonCore/tree/master/Libft) |
+
+
+
 
 <br>
 
@@ -46,10 +50,10 @@ ___________________
 ## Exam Results
 
 • **Exam Rank 2**<br>
-Grade: **100**/100 ✔️<br>
+Grade: **100**/100 ✅<br>
 <br>
 • **Exam Rank 3**<br>
-Grade: **100**/100 ✔️<br><br>
+Grade: **100**/100 ✅<br><br>
 
 ___________________
 <i>Project icons: MIT License | Copyright (c) 2023 @Cadets for Cadets</i>
