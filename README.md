@@ -49,11 +49,12 @@ ___________________
 
 ___________________
 ## Exam Results
-
-• **Exam Rank 2**<br>
+• **Exam Rank 4**<br>
+Grade: **100**/100 ✅<br>
+• **Exam Rank 3**<br>
 Grade: **100**/100 ✅<br>
 <br>
-• **Exam Rank 3**<br>
+• **Exam Rank 2**<br>
 Grade: **100**/100 ✅<br><br>
 
 ___________________
