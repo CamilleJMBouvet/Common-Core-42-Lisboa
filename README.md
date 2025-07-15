@@ -31,7 +31,8 @@ ___________________
 
 | Project | Description | Grade |
 | ------------- | ------------- | ------------- |
-| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_irc"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_irce.png"></img> | •  <br>  | **100**/100 ✅<br> |
+| <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencee.png"></img> |  • Design and develop a full-stack web application <br>  | work in progess |
+| <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/ft_irc"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_irce.png"></img> | •  Build an IRC server in C++ <br> • Ensure compatibility with Hexchat client <br> • Comply with RFC 2812 protocol | **100**/100 ✅<br> |
 | <a href="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/Inception"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png"></img> | • Creation/deployment of a containerized application using Docker <br>  | **100**/100 ✅<br> |
 | <A HREF="https://github.com/CamilleJMBouvet/Common-Core-42-Lisboa/tree/master/cub3d"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png"></img> | • Graphic design project using ray-casting & mathematic formulas to <br>create an FPS-inspired maze which can be explored dynamically | **100**/100 ✅<br> |
 | <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png"></img> | • Learn about TCP/IP addressing and configure small-scale networks  | **100**/100 ✅<br> |
@@ -53,6 +54,9 @@ ___________________
 
 ___________________
 ## Exam Results
+• **Exam Rank 5**<br>
+Grade: **100**/100 ✅<br>
+<br>
 • **Exam Rank 4**<br>
 Grade: **100**/100 ✅<br>
 <br>
