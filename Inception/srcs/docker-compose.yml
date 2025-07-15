@@ -1,0 +1,75 @@
+secrets:
+  db_secrets:
+    file: ../secrets/db_secrets.txt
+  wp_secrets:
+    file: ../secrets/wp_secrets.txt
+
+services:
+  mariadb:
+    container_name: mariadb
+    build:
+      context: ./requirements/mariadb
+      dockerfile: Dockerfile
+    secrets:
+      - db_secrets
+    env_file:
+    - .env
+    volumes:
+      - mariadb_data:/var/lib/mysql #Mounts persistent storage
+    networks:
+      - inception_network
+    restart: unless-stopped
+    healthcheck: #Monitors MariaDB's health to ensure Wordpress only starts once MariaDB is ready
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  wordpress:
+    container_name: wordpress
+    build:
+      context: ./requirements/wordpress
+      dockerfile: Dockerfile
+    secrets:
+      - wp_secrets
+    env_file:
+    - .env
+    volumes:
+      - wordpress_data:/var/www/html
+    networks:
+      - inception_network
+    depends_on: #Ensures MariaDB starts first
+      mariadb:
+        condition: service_healthy
+    restart: unless-stopped
+  nginx:
+    container_name: nginx
+    build:
+      context: ./requirements/nginx
+      dockerfile: Dockerfile
+    ports:
+      - "443:443" #Exposes HTTPS port
+    volumes:
+      - wordpress_data:/var/www/html
+    depends_on:
+    - wordpress #Ensures WordPress starts first
+    env_file:
+    - .env
+    networks:
+      - inception_network
+    restart: unless-stopped
+
+volumes:
+  mariadb_data:
+     driver_opts: #Bind mount configuration
+      type: none #No special deiver needed - just use regular file system
+      device: /home/cbouvet/data/mariadb #Host machine path
+      o: bind #Creates direct link bt host folder (mariadb) & container folder (/var/lib/mysql)
+  wordpress_data:
+    driver_opts:
+      type: none
+      device: /home/cbouvet/data/wordpress
+      o: bind
+
+networks:
+  inception_network: ##Internal network for containers
+
