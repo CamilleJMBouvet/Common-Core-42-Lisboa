@@ -1,3 +1,6 @@
 [submodule "ft_transcendence"]
 	path = ft_transcendence
 	url = https://github.com/Best-transcendence/ft_transcendence.git
+[submodule "Ft_Irc"]
+	path = Ft_Irc
+	url = https://github.com/diegosou4/Ft_Irc.git
