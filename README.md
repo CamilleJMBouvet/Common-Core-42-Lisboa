@@ -1,7 +1,7 @@
-<img src="https://i.postimg.cc/3JL1G0Jd/Common-core-1.png"></img><br><br>
+<img src="https://i.postimg.cc/TYYyTQQ7/academic-banner.png"></img><br><br>
 
 <p align="center">Welcome !<br>
-Here are all the projects that I'm completing along my programming journey at 42</p>
+In this repo, you'll find all the projects that I've successfully completed during my Common Core journey at <a href="https://www.42lisboa.com">42 Lisboa</a> </p>
 
 ___________________
 
